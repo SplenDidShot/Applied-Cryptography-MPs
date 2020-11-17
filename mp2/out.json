@@ -1,0 +1,103 @@
+{
+    "gates": {
+        "g3": {
+            "out": [
+                "w7"
+            ],
+            "inp": [
+                "w5",
+                "w6"
+            ],
+            "table": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "garble_table": [
+                "c2a9ebe630cc4c8af78bf8b62a2010a2957fb638a022968da5df44aa3b94c0444a0ede131d97de4d74620adb4d914f09f77eb1176bf0de994c8f38a6868da3db9bded42fb46b0218c98fec6f24c7cbe8",
+                "f511069eb0ee166446f43b0f76c500918db578c888f31fd36a6041aaa2097a3849a22a6769de99a6cc780f6313b27d1ddc5fce9a709c4f2544e0e999b8c941a49fa962cf46da97b83ff0467aa9aa3774",
+                "feb0b5a6d75d28658c52dba2cda0989aa966e87847b3f262de0667bedc14487c61de07ac3a835b8c20fd98b4108cd845fd95119dcbd5c01ec8d75fb0e5c3db4aedc4f532502fa853fd93d9e80d82cf4f",
+                "0bfbd7889c725c16f4228bc2260bd8e3735fa9dea46f55a1d8b6f167f2c7a24a47ba1ea4918309349b1f7ecf069c0d87f37c836c0ff044f1c3406d4c93b4dee33de6b285e1703784e1722ad6fc7f521a"
+            ]
+        },
+        "g2": {
+            "out": [
+                "w6"
+            ],
+            "inp": [
+                "w3",
+                "w4"
+            ],
+            "table": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "garble_table": [
+                "a958cd85e0abce79847d5f516b90db0960c077139f65d82c2902351f39d173f0e75b37e56faa77e503ce0c157bca8a079c004baa00798c51927c33fee56b82bce9eaa4c1a317949ccde0fc4660d34f0e",
+                "1495cc9fa7c61de9e9491d7ad7bc5b59bda8f38dbb8c0c55cb5134e64b954912c973773c2958fa4a13e42cbcc8356e14f05bcc16abc1487a8c7e57acbb045460b6dcb19968369eb864dd2658a7c1b657",
+                "a480eb58e442196936ebee769a651a3b6d1851ce9b8c0f3c9b948438c824b2c2ff0c1ed10d538d5f37d314176b89b0fb50572bd4d1e8dc91e0fa6da3369cb51681dbe23932550647fca3d966b286727c",
+                "c288af99e8777f0bba41741550ad318e6bb5908bf43d6eb798595d89cc8423c522a9e51d956399d06d55906c65aa35f6cf81177da492819ab454ad23d52f02d44fa66e86ebe556569029406f6202d8ea"
+            ]
+        },
+        "g1": {
+            "out": [
+                "w5"
+            ],
+            "inp": [
+                "w1",
+                "w2"
+            ],
+            "table": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "garble_table": [
+                "966bdbbfe6619c7a7819f810685cb6bbbfa7d9344c845541f0b2e3dbffaf61d6cb70e1f9dabe8f2b4cbb7e0a5cfd6538bde88e27c954828be8ec13eb7810f373c8347d810f3b3d08eb408cb97ae05d16",
+                "ebcd6eb97d549c358fdaa17ae0b107c029f68829909c9e6ad42d0c6b71dcb4654742f1883ced55b8d1d6a9ce819ce7f0c4f78db63792942ec657c206fea9ee4a696c2a422ed2a3b87e9a0f42f03c32c3",
+                "77ad157607e513842c50ea1e7bc8adfab596f3e6ea2d11db77a7470feaa51e5f71eb1dce569360a4bce51cf10200f9abf6ffc774f842f058f4774802ee3c89a82d258cfd895217c6fef9c3f5fc2f6208",
+                "1b4270fd430dec36ac88c14937e36371328e7276e9e8250d2423da82a010b41c05d07119fddca1278e550fb7dc8cc34077e9b8434b98fded75115d6d6b682cb26a8da3e152d7e5af5f9f2fd69c2c642f"
+            ]
+        }
+    },
+    "wire_labels": {
+        "w6": [
+            "baf0ca3b0635fc1e0277598ba3dd309a",
+            "d836e8c9ca663f0b8d6cbe4e0997024b"
+        ],
+        "w5": [
+            "d90abea516ef0c29ef93fa604aed5ea4",
+            "c7f3badca19f7be074f2513aa3df8f75"
+        ],
+        "w4": [
+            "c7e660ecadc6080dea63f7fb834fff7c",
+            "239dfb6022cb7cdf0295d427b723057a"
+        ],
+        "w3": [
+            "ae2c978a184eae0f3f64a84724d8a821",
+            "77d61e2f063efa82a015fa7ce889e60c"
+        ],
+        "w7": [
+            "fb324ff7cdf84695954ec06c0dc63bb9",
+            "0aaf53dc515f59b17c287a843965bda6"
+        ],
+        "w1": [
+            "2ae6c9d18253c9eec6cded578946283e",
+            "c43b7a7350c63ad48a6ca00dce1e93e0"
+        ],
+        "w2": [
+            "7137533c3425071a503228870ffaaa18",
+            "03d0e6c6428ae0511982f06c4b08b676"
+        ]
+    },
+    "inputs": {
+        "w4": "239dfb6022cb7cdf0295d427b723057a",
+        "w3": "77d61e2f063efa82a015fa7ce889e60c",
+        "w2": "7137533c3425071a503228870ffaaa18",
+        "w1": "2ae6c9d18253c9eec6cded578946283e"
+    }
+}

@@ -1,0 +1,12 @@
+ECE498AC mp2 submission
+
+author: James Hsu
+netid: chsu41
+
+I have successfully completed all parts of this mp.
+
+The documentation for this mp is very detailed and the mp itself helped me better understand the inner-workings of 
+garbled circuits. In particular, the gate-by-gate decryption process showed me how the garbling protocol satisties
+the security properties that are mentioned in lectures. The lecture materials, although sometimes confusing,
+are very interesting after one takes the time to digest and apply them. 
+

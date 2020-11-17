@@ -1,0 +1,6 @@
+netid: chsu41
+parts finished: All except problem 3.2
+I think I understood the concept behind 3.2, however my implementation of it does not work as intended.
+I don't know if it is because we have to sort the combination before interpolating or something else.
+But besides that, this MP helped me understand the spirit behid multiparty computation and how it leverages 
+ploynomial functions to acheive secret sharing among many users.

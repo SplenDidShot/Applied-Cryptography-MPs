@@ -1,0 +1,11 @@
+netid: chsu41
+I have finished all the parts for mp1 except part 5.
+I have tried to implement the range_prover and verifier function as it was described in the lecture notes and
+the piazza hints, but it was not successful. While I understand the mathematics behind range proof, I cannot
+fully translate the concept into ZK proofs.
+Other parts of the mp really complemented the theories we have learned in class, they helped me understand
+most of the materials in the lectures. It is interesting to know how these neat mathematical theories are
+applied in real life to help us build secure messaging/transaction systems.
+While the course materials might not be that intuitive and students are often left in confusion, I appreciate Professor
+Miller's effort in explaining the concepts to us. This mp definitely helped expanded my mental capacity and cleared out
+much of the confusion I had before.

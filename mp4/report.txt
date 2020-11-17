@@ -1,0 +1,31 @@
+Name: James Hsu
+Netid: chsu41
+Collaborators: vivekcn2, zitongc2
+Decrypted Message:
+		     Congratulllatoins! You 
+		  found the ECE 498 AC Fall 
+			2019 autumnal feast
+				
+				the pie is 
+				   lattice
+References:
+https://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.9408&rep=rep1&type=pdf
+http://attackschool.di.uminho.pt/slides/slides_nh4.pdf
+https://link.springer.com/content/pdf/10.1007/BFb0052238.pdf
+https://github.com/mimoo/RSA-and-LLL-attacks
+
+Setps:
+I first tried to understand the encryption scheme used in pbp.py to see how the padding affected the polynomial.
+I then went through a trial-and-error phase of tweaking the input values for the coppersmith attack function provided
+on the github repo.
+I tested out my methods by encrypting a simple message with my own rsa keypair and pbp, and decrypting the ciphertext
+with the attack I implemented.
+After that, I worked out the formatting of the plaintext in order to get a uncorrupted pdf file.
+Understanding the theory behind LLL based attack took me the longest time as there were multiple implementations and
+multiple papers that all had slight variations in their algorithms. The process also required some luck due to the 
+discrete nature of cryptography. In particular, the paper from Alexander May and the github repo were most helpful in
+completing this assignment, as they explained in details what each input for the coppersmith attack was about.
+
+
+
